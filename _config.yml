@@ -1,0 +1,82 @@
+# Site settings
+title: Bristol Glaciology Centre
+subtitle: School of Geographical Sciences, University of Bristol
+description: >-
+  The Bristol Glaciology Centre focuses on the study of cold and ice-covered 
+  regions across the globe, from the Arctic to the Antarctic.
+author: Bristol Glaciology Centre
+url: https://bristol-glaciology.github.io
+baseurl: ""
+repository: bristol-glaciology/bristol-glaciology.github.io
+github_username: bristol-glaciology
+
+# Theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+logo: /assets/images/logos/bgc-logo.png
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+  people:
+    output: false
+  resources:
+    output: false
+
+# Site author (appears in footer)
+author:
+  name: Bristol Glaciology Centre
+  avatar: /assets/images/logos/bgc-logo.png
+  bio: "Research on glaciers and ice sheets from the Arctic to the Antarctic"
+  location: "Bristol, UK"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:glaciology@bristol.ac.uk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bristol-glaciology"
+
+# Footer links
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bristol-glaciology"
+    - label: "University of Bristol"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.bristol.ac.uk/"
+
+# Front Matter Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      show_date: false
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      show_date: false
+
+# Enable JavaScript
+enable_js: true

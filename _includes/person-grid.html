@@ -1,0 +1,33 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% elsif person.image %}
+  {% capture teaser %}{{ person.image }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if person.profile_url %}
+  {% assign person_url = person.profile_url %}
+{% else %}
+  {% assign person_url = person.url | relative_url %}
+{% endif %}
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if teaser %}
+      <div class="archive__item-teaser" style="padding-bottom: 100%; position: relative; overflow: hidden;">
+        <img src="{{ teaser | relative_url }}" alt="{% if person.title %}{{ person.title }}{% endif %}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if person_url %}
+        <a href="{{ person_url }}" rel="permalink">{{ person.title }}</a>
+      {% else %}
+        {{ person.title }}
+      {% endif %}
+    </h2>
+    {% if person.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ person.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+    {% endif %}
+  </article>
+</div>

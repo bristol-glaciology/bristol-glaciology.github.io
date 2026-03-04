@@ -1,0 +1,22 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom branding colors for buttons */
+.btn--primary {
+  background-color: #00434F !important;
+  border-color: #00434F !important;
+  color: #fff !important;
+}
+
+.btn--primary:hover,
+.btn--primary:focus {
+  background-color: #00C0B5 !important;
+  border-color: #00C0B5 !important;
+  color: #fff !important;
+}
