@@ -1,0 +1,115 @@
+name: "Add Person to Website"
+description: "Request to add a new member to the research group website."
+title: "Add person: [Full Name]"
+labels: ["website", "people"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Add a New Person to the Website
+        Please fill in the details below. Once submitted, this issue will contain the markdown needed to add the person to the `_people/` directory.
+
+  - type: input
+    id: forename
+    attributes:
+      label: Forename(s)
+      placeholder: "e.g. Jane"
+    validations:
+      required: true
+
+  - type: input
+    id: surname
+    attributes:
+      label: Surname(s)
+      placeholder: "e.g. Smith"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: person_type
+    attributes:
+      label: Person Type
+      description: Select the category that best describes this person's role.
+      options:
+        - "faculty"
+        - "postdoc"
+        - "phd"
+        - "mscr"
+    validations:
+      required: true
+
+  - type: input
+    id: job_title
+    attributes:
+      label: Job Title
+      description: "This will appear in bold on the People page (e.g. Associate Professor in Polar Science, NERC Independent Research Fellow, PhD Student, MScR Student)."
+      placeholder: "e.g. Associate Professor in Polar Science"
+    validations:
+      required: true
+
+  - type: input
+    id: profile_url
+    attributes:
+      label: Profile URL
+      description: |
+        Link to this person's online profile. 
+        - **Staff**: University of Bristol People page (e.g. `https://bristol.ac.uk/people/...`)
+        - **PGR students**: Pure page (e.g. `https://research-information.bris.ac.uk/en/persons/...`)
+        - Alternatively, a personal or lab website may be used.
+      placeholder: "https://"
+    validations:
+      required: true
+
+  - type: input
+    id: image_filename
+    attributes:
+      label: Image Filename
+      description: |
+        Filename only — do **not** include the directory path. By convention, use `firstname-lastname.jpg`.
+        The path `/assets/images/people/` will be added automatically.
+      placeholder: "e.g. jane-smith.jpg"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: image_location
+    attributes:
+      label: Image Upload Location
+      description: "Please confirm where the profile image has been uploaded."
+      options:
+        - label: "I have uploaded my image directly to GitHub in the `/assets/images/people/` directory."
+        - label: "I have uploaded my image to the `grp-Glaciology` Teams shared folder under `Documents/Website/Profile Pictures`."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: image_format
+    attributes:
+      label: Image Format Check
+      options:
+        - label: "My image is 1:1 (square) aspect ratio and between 400×400px and 800×800px in size."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Generated Markdown
+
+        Once this issue is submitted, copy the block below into a new file at `_people/firstname-lastname.md`, replacing values as needed.
+
+        > **Note:** The filename should follow the convention `firstname-lastname.md` (lowercase, hyphen-separated).
+
+        ```yaml
+        ---
+        title: "<Forename(s)> <Surname(s)>"
+        last_name: "<Surname(s)>"
+        type: "<person_type>"
+        excerpt: "**<Job Title>**"
+        image: /assets/images/people/<image_filename>
+        profile_url: "<profile_url>"
+        ---
+        ```
+
+        > ℹ️ A maintainer will use the details above to create the correct markdown file and confirm once the page has been updated.
