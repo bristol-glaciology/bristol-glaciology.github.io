@@ -7,6 +7,7 @@ Gemfile.lock
 _site/
 .jekyll-cache/
 .jekyll-metadata
+private/
 
 # OS
 .DS_Store
