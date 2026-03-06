@@ -47,7 +47,3 @@ classes: wide
 </div>
 
 <div style="clear: both;"></div>
-
-## Former Members
-
-(To be updated)

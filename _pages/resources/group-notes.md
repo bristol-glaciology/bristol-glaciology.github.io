@@ -22,8 +22,6 @@ So that the University system can recognise you as part of the Bristol Glaciolog
 
 ## Add yourself to the group website
 
-### Managing People
-
 If you are not comfortable with GitHub, you can [open a new Issue on the GitHub repository](https://github.com/bristol-glaciology/bristol-glaciology.github.io/issues) and select 'Add Person to Website' as the template, which provides a handy form to act off of.
 
 If you know what you are doing, it is possible to create or delete markdown files in the `_people/` directory of the [GitHub repo](https://github.com/bristol-glaciology/bristol-glaciology.github.io):
