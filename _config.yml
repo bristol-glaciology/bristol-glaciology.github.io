@@ -22,6 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-analytics
 
 # Collections
 collections:
