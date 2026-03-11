@@ -83,11 +83,10 @@ defaults:
 # Enable JavaScript
 enable_js: true
 
+# https://github.com/hendrikschneider/jekyll-analytics
 jekyll_analytics:
   Plausible:
-    domain: 'bristol-glaciology.github.io/'   # The domain configured in plausible
-    source: 'https://plausible.oggm.org/js/script.js' # The source URL of the javascript,
-    host: 'https://plausible.oggm.org' # The base URL of the plausible host, only needed for embed_tracker
-    embed_tracker: true     # embed the tracking code instead of loading the javascript; this removes one
-                            # call from page loading and circumvents adblockers; this uses `host` to generate
-                            # the correct callback destination
+    domain: 'bristol-glaciology.github.io/'
+    source: 'https://plausible.oggm.org/js/script.js'
+    host: 'https://plausible.oggm.org'
+    embed_tracker: true
