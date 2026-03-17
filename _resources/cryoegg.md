@@ -1,7 +1,7 @@
 ---
 title: "CryoEgg"
 excerpt: "Advanced instruments and measurement systems"
-image: https://placehold.co/300x200?text=CryoEgg
+image: /assets/images/images/bagshaw_cryoegg_1600.jpg
 page_url: "/resources/cryoegg/"
 type: hardware
 ---
