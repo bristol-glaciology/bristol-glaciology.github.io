@@ -9,19 +9,19 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/headers/header_fracture.jpg
 feature_row:
-  - image_path: https://placehold.co/400x300?text=Research
+  - image_path: /assets/images/images/bagshaw_radar_1600.jpg
     title: "Research"
     excerpt: "Explore our multidisciplinary research across glaciology and cryospheric science."
     url: "/research/"
     btn_label: "View Research"
     btn_class: "btn--primary"
-  - image_path: https://placehold.co/400x300?text=People
+  - image_path: /assets/images/images/bagshaw_cryoegg_1600.jpg
     title: "People"
     excerpt: "Meet our faculty, researchers, and students conducting cutting-edge science."
     url: "/people/"
     btn_label: "View People"
     btn_class: "btn--primary"
-  - image_path: https://placehold.co/400x300?text=Join+Us
+  - image_path: /assets/images/images/bagshaw_gps_1600.jpg
     title: "Join Us"
     excerpt: "Explore opportunities for postdocs, students, and research fellows."
     url: "/join-us/"
@@ -29,8 +29,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-**Note:** This website is currently under production. Please bear with us whilst things get up and running! 
-{: .notice--warning}
+<!-- **Note:** This website is currently under production. Please bear with us whilst things get up and running! 
+{: .notice--warning} -->
 
 
 {% include feature_row %}
