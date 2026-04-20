@@ -6,10 +6,9 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if person.profile_url %}
-  {% assign person_url = person.profile_url %}
-{% else %}
-  {% assign person_url = person.url | relative_url %}
+{% assign person_url = person.profile_url | default: "" | strip %}
+{% if person_url == "#" %}
+  {% assign person_url = "" %}
 {% endif %}
 
 <div class="grid__item">
@@ -20,7 +19,7 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if person_url %}
+      {% if person_url != "" %}
         <a href="{{ person_url }}" rel="permalink">{{ person.title }}</a>
       {% else %}
         {{ person.title }}
