@@ -1,4 +1,3 @@
-
 ---
 title: "Fabien Maussion wins IGS Firn Award"
 excerpt: "The award is for significant contributions to glaciology by a mid-career scientist."
