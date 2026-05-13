@@ -51,7 +51,11 @@ A range of funded projects will be advertised from members of the Bristol Glacio
 
 More information about PhDs in the School of Geographical Sciences can be found [at the following link](https://www.bristol.ac.uk/geography/courses/postgraduate/physphd.html).
 
-There may be further opportunities for funding depending on your background - for example, [the Bristol Black Heritage PhD Scholarships](https://www.bristol.ac.uk/study/postgraduate/research/funding-and-scholarships/black-heritage-phd-scholarships/), [US Marshall Partnership scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/marshall-partnership-scholarships/), or the [China Scholarship Council](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).
+There may be further opportunities for funding depending on your background - for example:
+
+ - [The Bristol Black Heritage PhD Scholarships](https://www.bristol.ac.uk/study/postgraduate/research/funding-and-scholarships/black-heritage-phd-scholarships/).
+ - [US Marshall Partnership scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/marshall-partnership-scholarships/).
+ - The [China Scholarship Council](https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/).
 
 More information on potential funding sources is available on [the School of Geographical Sciences website](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/) or through [the University of Bristol Postgraduate Research funding search tool](https://www.bristol.ac.uk/students/support/finances/scholarships/?filterfee_status=&filterstudy_stage=&filterstudy_level=Postgraduate%20research&filterstudy_mode=&filterfunding_category=&filtercountry=&sort=Title-Asc&page=1).
 
