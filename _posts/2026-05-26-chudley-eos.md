@@ -6,7 +6,7 @@ categories:
   - announcement
 ---
 
-New research by Tom Chudley has been [featured in an Eos Research Spotlight]([https://www.bristol.ac.uk/news/2026/may/researcher-uncovers-hidden-diversity-in-snow-and-glacier-ecosystems.html](https://eos.org/research-spotlights/stretching-and-squeezing-release-glacial-meltwater).
+New research by Tom Chudley has been [featured in an Eos Research Spotlight](https://eos.org/research-spotlights/stretching-and-squeezing-release-glacial-meltwater).
 
 The study examined the filling and drainage of water-filled crevasse fields in Greelnand by combining Sentinel-2 imagery, where water-filled crevasses were identified using convolutional neural networks (CNNs), with strain rate fields derived from ITS_LIVE glacier velocity data. Tom, alongside colleagues from across the UK and USA, found crevasse were likely to drain during the seasonal accelerations of outlet glaciers, which induced drainage by 'stretching' the crevasse fields at the surface.
 
