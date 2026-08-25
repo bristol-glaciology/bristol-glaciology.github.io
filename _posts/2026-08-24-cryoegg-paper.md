@@ -13,12 +13,12 @@ You can read Ryan, Liz, Matt, Tifenn and Tom's featured research in [*AGU Advanc
 <!-- markdownlint-disable MD033 -->
 
 <figure class="blog-figure">
-  <img class="blog-image" src="{{ '/assets/images/blog/2026_08_cryoegg.jpg' | relative_url }}" alt="Ryan Ing checks the pressure sensor fixing as the rest of the team help lower the 600 m cable" width="300" height="400">
+  <img class="blog-image" src="{{ '/assets/images/blog/2026_08_pressure_sensor.jpg' | relative_url }}" alt="Ryan Ing checks the pressure sensor fixing as the rest of the team help lower the 600 m cable" width="300" height="400">
   <figcaption class="blog-caption">Ryan Ing checks the pressure sensor fixing as the rest of the team help lower the 600 m cable.</figcaption>
 </figure>
 
 <figure class="blog-figure">
-  <img class="blog-image" src="{{ '/assets/images/blog/2026_08_pressure_sensor.jpg' | relative_url }}" alt="Matt Peacey and Ryan Ing prepare the Cryoegg for deployment by the wireless receiving station" width="454" height="342">
+  <img class="blog-image" src="{{ '/assets/images/blog/2026_08_cryoegg.jpg' | relative_url }}" alt="Matt Peacey and Ryan Ing prepare the Cryoegg for deployment by the wireless receiving station" width="454" height="342">
   <figcaption class="blog-caption">Matt Peacey and Ryan Ing prepare the Cryoegg for deployment by the wireless receiving station.</figcaption>
 </figure>
 
