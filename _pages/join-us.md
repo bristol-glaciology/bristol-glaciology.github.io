@@ -66,7 +66,15 @@ If you have identified an appropriate funding source and potential project that 
 
 MScR projects (one year full-time or two years part-time) offer the opportunity to perform an independent research project supported by an expert supervisor within the group. Students have the opportunity to propose their own research project, either based on the ideas outlined below, or on their own interests.
 
-There may be opportunities for financial support for students. For UK students, discounts or fee waivers may be available for those from under-represented backgrounds, or alumni of the University of Bristol. For international students, a variety of programmes exist to support students from selected countries. More information is available on [the School of Geographical Sciences website](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/) or through [the University of Bristol Postgraduate Research funding search tool](https://www.bristol.ac.uk/students/support/finances/scholarships/?filterfee_status=&filterstudy_stage=&filterstudy_level=Postgraduate%20research&filterstudy_mode=&filterfunding_category=&filtercountry=&sort=Title-Asc&page=1).
+There may be opportunities for financial support for students. For UK students, discounts or fee waivers may be available for those from under-represented backgrounds, or alumni of the University of Bristol. For international students, a variety of programmes exist to support students from selected countries. Examples of potential sources of support include, but are not limited to:
+
+ - [Bristol Master's Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/bristol-masters-scholarship/) for talented UK students from a widening participation background.
+ - [Bristol Alumni Discount](https://www.bristol.ac.uk/students/support/finances/scholarships/alumni-discount/)
+ - [Commonwealth General Master's Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/commonwealth-scholarships-general-masters/)
+ - [Fulbright University of Bristol Award](https://www.bristol.ac.uk/students/support/finances/scholarships/fulbright/) or [Marshall Partnership Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/marshall-partnership-scholarships/) for students from the USA.
+ - [GREAT Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/great-scholarships/) for students in India, Mexico, or Thailand.
+
+More information is available on [the School of Geographical Sciences website](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/) or through [the University of Bristol Postgraduate Research funding search tool](https://www.bristol.ac.uk/students/support/finances/scholarships/?filterfee_status=&filterstudy_stage=&filterstudy_level=Postgraduate%20research&filterstudy_mode=&filterfunding_category=&filtercountry=&sort=Title-Asc&page=1).
 
 ### MScR Project Themes
 
