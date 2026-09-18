@@ -10,7 +10,7 @@ We are always interested in hearing from talented researchers and students keen 
   <a href="#job-openings" class="btn btn--primary">Job Openings</a>
   <a href="#research-fellowships" class="btn btn--primary">Research Fellowships</a>
   <a href="#phd-students" class="btn btn--primary">PhD Students</a>
-  <!-- <a href="#mscr" class="btn btn--primary">MScR Students</a> -->
+  <a href="#mscr" class="btn btn--primary">MScR Students</a>
 </p>
 
 <p style="text-align: center; margin: 2em 0;">
@@ -61,29 +61,33 @@ More information on potential funding sources is available on [the School of Geo
 
 If you have identified an appropriate funding source and potential project that aligns with one of the BGC faculty, please do not hesitate to get in contact with us to discuss opportunities.
 
-<!-- 
 ## Masters-by-Research (MScR) {#mscr}
 
-MScR projects (one year full-time or two years part-time) offer the opportunity to perform an independent research project supported by an expert supervisor within the group. Students have the opportunity to propose their own research project, either based on the ideas outlined below, or on their own interests.
+A [Masters-by-Research (MScR) in Geographical Sciences](https://www.bristol.ac.uk/study/postgraduate/research/geographical-sciences/) (one year full-time or two years part-time) offers the opportunity to perform an independent research project supported by an expert supervisor within the Bristol Glaciology Centre. 
 
-There may be opportunities for financial support for students. For UK students, discounts or fee waivers may be available for those from under-represented backgrounds, or alumni of the University of Bristol. For international students, a variety of programmes exist to support students from selected countries. Examples of potential sources of support include, but are not limited to:
+### Funding
 
- - [Bristol Master's Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/bristol-masters-scholarship/) for talented UK students from a widening participation background.
- - [Bristol Alumni Discount](https://www.bristol.ac.uk/students/support/finances/scholarships/alumni-discount/)
- - [Commonwealth General Master's Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/commonwealth-scholarships-general-masters/)
- - [Fulbright University of Bristol Award](https://www.bristol.ac.uk/students/support/finances/scholarships/fulbright/) or [Marshall Partnership Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/marshall-partnership-scholarships/) for students from the USA.
- - [GREAT Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/great-scholarships/) for students in India, Mexico, or Thailand.
+There may be opportunities for financial support for students. For UK students, discounts or fee waivers may be available for those from under-represented backgrounds, or [alumni of the University of Bristol](https://www.bristol.ac.uk/students/support/finances/scholarships/alumni-discount/). For international students, a variety of programmes exist to support students from selected countries including, but not limited, to:
+
+ - [Think Big Scholarship](https://www.bristol.ac.uk/students/support/finances/scholarships/think-big-scholarships/).
+ - [US Marshall Partnership Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/marshall-partnership-scholarships/).
+ - [US Fulbright University of Bristol Award](https://www.bristol.ac.uk/students/support/finances/scholarships/fulbright/).
+ - [Commonwealth General Master's Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/commonwealth-scholarships-general-masters/).
+ - [GREAT Scholarships](https://www.bristol.ac.uk/students/support/finances/scholarships/great-scholarships/).
 
 More information is available on [the School of Geographical Sciences website](https://www.bristol.ac.uk/geography/courses/postgraduate/scholarships/) or through [the University of Bristol Postgraduate Research funding search tool](https://www.bristol.ac.uk/students/support/finances/scholarships/?filterfee_status=&filterstudy_stage=&filterstudy_level=Postgraduate%20research&filterstudy_mode=&filterfunding_category=&filtercountry=&sort=Title-Asc&page=1).
 
-### MScR Project Themes
+### Project Themes
+
+Students have the opportunity to propose their own research project, based on their own interests. The table below provides an indicative sample of what some members of the Bristol Glaciology Centre may be interested in supporting -- students are encouraged to contact potential supervisors to develop proposals in detail.
 
 | Project Title & Abstract | Contact |
 |---|---|
-| **What is the Future of Mountain Glaciers?**<br>This project is a follow-on from the ERC grant GlobalMass (www.globalmass.eu) that has advanced the use of space-time statistical inference to separate global sea level rise into its different sources. We have developed a software package called 4DModeller (see https://4dmodeller.github.io/fdmr/) that is designed to tackle a wide range of spatial-temporal problems. | [**Jonathan Bamber**](mailto:j.bamber@bristol.ac.uk) |
-| **Exploring Ice Dynamics, Hydrology, and Ice-Ocean interactions Using Earth Observation Techniques**<br>Open satellite data, digital elevation models, and glacier velocity fields have revolutionised large-scale assessment of cyrospheric change. We welcome students who are interested in using open-source Python tools and 'big data' approaches (including deep learning) to explore processes occurring at fast-flowing ice sheets and outlet glaciers, ice caps, and mountain glaciers. | [**Tom Chudley**](mailto:tom.chudley@bristol.ac.uk) |
+| **Exploring Ice Dynamics, Hydrology, and Ice-Ocean interactions Using Earth Observation Techniques**<br>The open availability of large-scale satellite data, digital elevation models, and glacier velocity fields have revolutionised global-scale assessment of cyrospheric change. We welcome students who are interested in using open-source Python tools and 'big data' approaches (including deep learning) to explore processes occurring at fast-flowing ice sheets and outlet glaciers, ice caps, and mountain glaciers. | [**Tom Chudley**](mailto:tom.chudley@bristol.ac.uk) |
 | **Glaciers in a Changing World: Modelling, Data Science, and Societal Relevance**<br>The University of Bristol is a global leader in large-scale glacier modelling, spearheading the development of the Open Global Glacier Model (OGGM, http://oggm.org). We welcome applications from students interested in: (1) Advancing the OGGM model by incorporating new physical processes, (2) Designing innovative strategies for model initialization, (3) Applying the model to address pressing questions on glacier change. | [**Fabien Maussion**](mailto:fabien.maussion@bristol.ac.uk) |
 | **MicroLab@Bristol**<br>Please see [https://microlabbristol.org/join-us/](https://microlabbristol.org/join-us/) for more details on research opportunities in glacier microbiology. | [**Chris Williamson**](mailto:c.williamson@bristol.ac.uk) |
+
+<!-- | **What is the Future of Mountain Glaciers?**<br>This project is a follow-on from the ERC grant GlobalMass (www.globalmass.eu) that has advanced the use of space-time statistical inference to separate global sea level rise into its different sources. We have developed a software package called 4DModeller (see https://4dmodeller.github.io/fdmr/) that is designed to tackle a wide range of spatial-temporal problems. | [**Jonathan Bamber**](mailto:j.bamber@bristol.ac.uk) |
  -->
 
 ## Our commitment to inclusive research and scholarship {#inclusivity}
